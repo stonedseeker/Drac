@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+
+
+# Data
+uploads/
+.chroma
+.cache
+*.db
+data/
+!data/.gitkeep
+!uploads/.gitkeep
