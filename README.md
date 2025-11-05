@@ -2,8 +2,6 @@
 
 A production-ready Retrieval-Augmented Generation system that processes and queries multiple data formats including images, text documents, and PDFs with mixed content.
 
-## Features
-
 ### Core Capabilities
 - Multi-format document processing (TXT, PDF, PNG, JPG, JPEG, DOCX, XLSX)
 - Dense vector search using OpenAI embeddings
